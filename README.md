@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/danys_linares" target="blank"><img src="https://img.shields.io/twitter/follow/danys_linares?logo=twitter&style=for-the-badge" alt="danys_linares" /></a> </p>
 
-- 🔭 I’m currently Studying on [Microvers](https://www.microverse.org/)
+- 🔭 I’m currently studying on [Microvers](https://www.microverse.org/)
 
 - 🌱 I’m currently learning **JavaScript, react, ruby, RoR**
 
