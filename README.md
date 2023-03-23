@@ -144,13 +144,6 @@
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d4nqw3rty&show_icons=true&locale=en&layout=compact" alt="d4nqw3rty" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d4nqw3rty&show_icons=true&locale=en" alt="d4nqw3rty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d4nqw3rty&" alt="d4nqw3rty" /></p>
-
    <table width="100%" align="center">
    <tr>
       <td>
@@ -163,3 +156,6 @@
    </tr>
 <!-- https://github-readme-stats.vercel.app/api/top-langs?username=d4nqw3rty&show_icons=true&hide_border=true&layout=compact&langs_count=8&&theme=tokyonight -->
 </table>
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d4nqw3rty&" alt="d4nqw3rty" /></p>
