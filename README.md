@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Danys</h1>
-<h3 align="center">A passionate Full-stack software developer from Venezuela,</h3>
+<h3 align="center">🇻🇪 Lets make real all your ideas! 🇻🇪</h3>
 
 <table border="0">
   <tr border="0">
     <td valign="top"  border="0" width="50%">
       
-   Let me introduce myself:
+  Introducing myself:
       
 - 🦆 Full Stack Web Developer.
 - 🥇 Systems Engineer 
 - 👨‍💻 Eager to help people.
 - 🌍 Collaborating with web developers from around the world.
-- 💬 Ask me about: **Ruby on Rails, React and Redux.**
+- ❓ Ask me about: Ruby on Rails, React and Redux.
 - 🔍 Looking out for remote full stack opportunities.
-- 🤘 Fun fact: **I like Metal **
+- 🤘 Fun fact: I like Metal
      </td>
     <td valign="top">
        <p align="center">
@@ -23,25 +23,20 @@
   </tr>
 </table>
 
-<table border="0">
-  <tr border="0">
-    <td valign="top"  border="0" width="50%">
-- 🌱 I’m currently learning **Typescript, Phyton, C++**
-- 👨‍💻 All of my projects are available at [Portfolio](https://cvalencia1991.github.io/Portfolio/)
-- 💬 Ask me about: **React and Redux**
-- 📫 How to reach me: **cesar4a6z@gmail.com**
-- ⚡ Fun fact: **Play games**
-     </td>
-    <td valign="top">
-       <p align="center">
-         <img  <img src="https://i.ibb.co/zmf5vbT/Danys-Linares.gif" alt="Danys-Linares" border="0" height="250px" />
-        </p>
-     </td>
-  </tr>
-</table>
+### <div align="center">📫 How to reach me</div>  
+<div align="center">
+<a href="https://twitter.com/Danys_Linares" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/danys-linares/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@danlinmoy" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+  
+</div>
 
-<h1 align="center">Hi 👋, I'm Danys</h1>
-<h3 align="center">A passionate Full-stack software developer from Venezuela,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4nqw3rty&label=Profile%20views&color=0e75b6&style=flat" alt="d4nqw3rty" /> </p>
 
