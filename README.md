@@ -151,11 +151,9 @@
       </td>
       <td>
          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4nqw3rty&show_icons=true&hide_border=true&layout=compact&langs_count=8&&theme=tokyonight" />
-      </td>
-
+      </td> 
    </tr>
 <!-- https://github-readme-stats.vercel.app/api/top-langs?username=d4nqw3rty&show_icons=true&hide_border=true&layout=compact&langs_count=8&&theme=tokyonight -->
 </table>
 
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d4nqw3rty&" alt="d4nqw3rty" /></p>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=d4nQw3rty&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
