@@ -34,7 +34,10 @@
 <a href="https://medium.com/@danlinmoy" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-  
+<a href="mailto:danlinmoy@gmail.ocm">
+<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
+ </a>
+ <a href='https://api.whatsapp.com/send?phone=584120651385'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>  
 </div>
 
 
