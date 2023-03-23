@@ -9,9 +9,9 @@
 - 🥈 Systems Engineer and Full Stack Web Developer.
 - 👨‍💻 Eager to help people.
 - 🌍 Collaborating with web developers from around the world.
-- 💬 Ask me about: **Ruby on Rails, React and Redux**
-- 📫 How to reach me: **danlinmoy@gmail.com**
-- ⚡ Fun fact: **I like Power Metal**
+- 💬 Ask me about: **Ruby on Rails, React and Redux.**
+- 🔍 Looking out for remote full stack opportunities.
+- ⚡ Fun fact: **I like Power Metal **
      </td>
     <td valign="top">
        <p align="center">
