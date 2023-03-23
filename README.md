@@ -4,14 +4,16 @@
 <table border="0">
   <tr border="0">
     <td valign="top"  border="0" width="50%">
+      
    Let me introduce myself:
-
-- 🥈 Systems Engineer and Full Stack Web Developer.
+      
+- 🦆 Full Stack Web Developer.
+- 🥇 Systems Engineer 
 - 👨‍💻 Eager to help people.
 - 🌍 Collaborating with web developers from around the world.
 - 💬 Ask me about: **Ruby on Rails, React and Redux.**
 - 🔍 Looking out for remote full stack opportunities.
-- ⚡ Fun fact: **I like Power Metal **
+- 🤘 Fun fact: **I like Metal **
      </td>
     <td valign="top">
        <p align="center">
