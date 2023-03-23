@@ -1,4 +1,25 @@
-<p align="center"></a></p>
+<h1 align="center">Hi 👋, I'm Danys</h1>
+<h3 align="center">A passionate Full-stack software developer from Venezuela,</h3>
+
+<table border="0">
+  <tr border="0">
+    <td valign="top"  border="0" width="50%">
+   Let me introduce myself:
+
+- 🥈 Systems Engineer and Full Stack Web Developer.
+- 👨‍💻 Eager to help people.
+- 🌍 Collaborating with web developers from around the world.
+- 💬 Ask me about: **Ruby on Rails, React and Redux**
+- 📫 How to reach me: **danlinmoy@gmail.com**
+- ⚡ Fun fact: **I like Power Metal**
+     </td>
+    <td valign="top">
+       <p align="center">
+         <img  src="https://i.ibb.co/zmf5vbT/Danys-Linares.gif"  height="250px" />
+        </p>
+     </td>
+  </tr>
+</table>
 
 <table border="0">
   <tr border="0">
