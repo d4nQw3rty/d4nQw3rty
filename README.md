@@ -8,7 +8,7 @@
   Introducing myself:
       
 - 🦆 Full Stack Web Developer.
-- 🥇 Systems Engineer 
+- 🥇 Systems Engineer.
 - 👨‍💻 Eager to help people.
 - 🌍 Collaborating with web developers from around the world.
 - ❓ Ask me about: Ruby on Rails, React and Redux.
