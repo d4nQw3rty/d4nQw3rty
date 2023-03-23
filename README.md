@@ -1,4 +1,21 @@
-<p align="center"><img src="https://i.ibb.co/zmf5vbT/Danys-Linares.gif" alt="Danys-Linares" border="0"></a></p>
+<p align="center"></a></p>
+
+<table border="0">
+  <tr border="0">
+    <td valign="top"  border="0" width="50%">
+- 🌱 I’m currently learning **Typescript, Phyton, C++**
+- 👨‍💻 All of my projects are available at [Portfolio](https://cvalencia1991.github.io/Portfolio/)
+- 💬 Ask me about: **React and Redux**
+- 📫 How to reach me: **cesar4a6z@gmail.com**
+- ⚡ Fun fact: **Play games**
+     </td>
+    <td valign="top">
+       <p align="center">
+         <img  <img src="https://i.ibb.co/zmf5vbT/Danys-Linares.gif" alt="Danys-Linares" border="0" height="250px" />
+        </p>
+     </td>
+  </tr>
+</table>
 
 <h1 align="center">Hi 👋, I'm Danys</h1>
 <h3 align="center">A passionate Full-stack software developer from Venezuela,</h3>
