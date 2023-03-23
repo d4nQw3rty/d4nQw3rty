@@ -10,7 +10,7 @@
 - 🦆 Full Stack Web Developer.
 - 🥇 Systems Engineer.
 - 👨‍💻 Eager to help people.
-- 🌍 Collaborating with web developers from around the world.
+- 🌍 Collaborating with developers from around the world.
 - ❓ Ask me about: Ruby on Rails, React and Redux.
 - 🔍 Looking out for remote full stack opportunities.
 - 🤘 Fun fact: I like Metal
